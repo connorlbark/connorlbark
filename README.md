@@ -1,9 +1,8 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Connor, an undergrad at Northeastern University studying CS and Behavioral Neuroscience. Long term, my interests are in BCIs, ML/AI, and creative audio programming, but I am always pushing myself to learn something new!
-
+I'm Connor, an undergrad at Northeastern University studying CS and Behavioral Neuroscience.
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning DSP and audio effect programming. Check out my [xdfx](https://github.com/connorlbark/xdfx) project where I'm implementing effects for my minilogue-xd synthesizer!
+- 🌱 I’m currently learning DSP and audio effect programming. Check out my [disperse](https://github.com/connorlbark/disperse) project where I'm working on my first VST!
 
 <!--
 **connorlbark/connorlbark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
