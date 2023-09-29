@@ -2,7 +2,7 @@
 
 I'm Connor, an undergrad at Northeastern University studying CS and Behavioral Neuroscience.
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning DSP and audio effect programming. Check out my [Audio Library]([https://github.com/connorlbark/disperse](https://github.com/connorlbark/SideriaAudioLib)) project where I'm working on my first VST!
+- 🌱 I’m currently learning DSP and audio effect programming. Check out my [Audio Library](https://github.com/connorlbark/SideriaAudioLib) project where I'm working on my first VST!
 
 <!--
 **connorlbark/connorlbark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
