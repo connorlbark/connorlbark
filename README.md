@@ -1,6 +1,5 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Connor, an undergrad at Northeastern University studying CS and Behavioral Neuroscience.
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning DSP and audio effect programming. Check out my [Audio Library](https://github.com/connorlbark/SideriaAudioLib) project where I'm working on my first VST!
 
